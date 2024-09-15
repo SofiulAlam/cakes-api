@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules/
+
+# Production build
+build/
+
+# Temporary files
+*.log
+.DS_Store
+
+# Environment variables
+.env
